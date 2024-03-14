@@ -1,0 +1,71 @@
+*{
+    border:10px;  
+  
+  }
+  main{
+  background-color:#eee;
+  display:block;
+  margin: 30px 8px;
+  }
+  
+  #title{
+  text-align:center;
+  font-size:45px;
+  
+  }
+  #img-caption{
+    margin-top:10px;
+    font-size:18px;
+    text-align:center;
+    padding:10px;
+  }
+  
+  #img-div{
+      background: white;
+      margin: 20;
+  }
+  
+  figure{
+      padding: 10px;
+      margin: 10px;
+      display: block;
+  
+  }
+  
+  #image{
+      max-width: 100%;
+      display: block;
+      height: auto;
+      margin: 0 auto;    
+  }
+  
+  .sub-title{
+  text-align:center;
+  font-size:18px;
+  }
+  
+  ul{
+  max-width:550;
+  text-align:left;
+  margin:0 auto 50px auto;
+  }
+  
+  li{
+    display:list-items;
+    margin:16px 0;
+  }
+  
+  blockquote
+  {
+      font-style: italic;
+      max-width: 545px;
+      margin: 0 auto 50px auto;
+      text-align: left;
+  }
+  
+  footer{
+    text-align:center;
+    font-size:25px;
+    font-family:sans-serif;
+    font-size:bold;
+  }
